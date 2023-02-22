@@ -72,9 +72,6 @@ export default {
   /* overflow: hidden; */
   transition-duration: .3s;
 }
-.webclone_box>*:hover{
-  transform: scale(1.03);
-}
 .webclone_box>*>a{
   display: block;
   width: 100%;

@@ -13,7 +13,7 @@
                 <h4 class="p_title t_bold">펭귄클래식코리아</h4>
                 <div class="project_util">
                   <h6><a target="_blank" href="https://penguinclassic.herokuapp.com/">홈페이지</a></h6>
-                  <h6><a target="_blank" href="https://glittery-screw-b7d.notion.site/0cd976bca6084ec3921ef207ebb2a6a6">코드리뷰</a></h6>
+                  <h6><a target="_blank" href="https://velog.io/@dmsdls14/penguinclassic">코드리뷰</a></h6>
                 </div>
               </div>
               <div class="project_img">
@@ -39,7 +39,7 @@
               <div data-aos="fade-up"  data-aos-easing="ease-in-out"  data-aos-duration="1300">
                 <div>
                   <h5 class="t_bold">작업 기간</h5>
-                  <h6 class="t_reguler">2022.11.01 ~</h6>
+                  <h6 class="t_reguler">2022.11.01 ~2023.01.31</h6>
                 </div>
                 <div class="p_downCon P_info">
                   <div>
@@ -75,7 +75,7 @@
               <div data-aos="fade-up"  data-aos-easing="ease-in-out"  data-aos-duration="1300">
                 <div>
                   <h5 class="t_bold">작업 기간</h5>
-                  <h6 class="t_reguler">2022.10.01 ~ 2023.01.31</h6>
+                  <h6 class="t_reguler">2022.10.01 ~ 2022.11.30</h6>
                 </div>
                 <div class="p_downCon P_info">
                   <div>
@@ -94,7 +94,7 @@
                 <h4 class="p_title t_bold">국순당</h4>
                 <div class="project_util">
                   <h6><a target="_blank" href="https://guksundang.herokuapp.com/">홈페이지</a></h6>
-                  <h6><a target="_blank" href="https://glittery-screw-b7d.notion.site/5e1f46af1f304d60a342959b5a6ce1b2">코드리뷰</a></h6>
+                  <h6><a target="_blank" href="https://velog.io/@dmsdls14/guksundang">코드리뷰</a></h6>
                 </div>
               </div>
               <div class="project_img">
@@ -109,7 +109,7 @@
                 <h4 class="p_title t_bold">KB 저축은행</h4>
                 <div class="project_util">
                   <h6><a target="_blank" href="https://teampkbbank.herokuapp.com/">홈페이지</a></h6>
-                  <h6><a target="_blank" href="https://glittery-screw-b7d.notion.site/KB-df7604e809b84c198cb5192ddf72e074">코드리뷰</a></h6>
+                  <h6><a target="_blank" href="https://velog.io/@dmsdls14/KBbank">코드리뷰</a></h6>
                 </div>
               </div>
               <div class="project_img">

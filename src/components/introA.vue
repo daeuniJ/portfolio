@@ -142,10 +142,10 @@ h4{
     width: 100%;
   }
   .intro_img.active{
-    scale: .8;
+    transform: scale(0.8);
   }
   .intro_txt.active{
-    scale: .8;
+    transform: scale(0.8);
   }
 
   /* 다크모드 */

@@ -7,12 +7,14 @@
             <div class="worksBg_inner">
              <img src="../assets/works/works_bg.png">
              <div class="workCon workCon_1">
-            <a href="">
+            <a target="_blank" href="http://daeunij.dothome.co.kr/todolist/todolist.html">
             <h6>To do List</h6>
           </a>
           </div>
           <div class="workCon workCon_2">
-            <h6>홍보 포스터</h6>
+            <a target="_blank" href="http://daeunij.dothome.co.kr/shootingGame/shootingGame.html">
+              <h6>슈팅 게임</h6>
+            </a>
           </div>
           <div @click="addShow" class="workCon workCon_3">
             <h6>자기소개서</h6>
@@ -78,7 +80,7 @@ export default {
     border-radius: 30px;
     background: #0CC192; 
 }
-::-webkit-scrollbar-thumb:window-inactive {
+::-webkit-scrollbar-thumb {
     background: #FF8210; 
 }
 .worksBg_inner{
@@ -217,12 +219,12 @@ export default {
 .workCon_1::after{
   display: block;
   content: '';
-  width: 35px;
-  height: 35px;
+  width: 30px;
+  height: 30px;
   position: absolute;
-  top: 5px;
+  top: 8px;
   left: 12px;
-  background-image: url(../assets/works/vueCon.png);
+  background-image: url(../assets/works/js_icon.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% auto;
@@ -240,12 +242,12 @@ export default {
 .workCon_2::after{
   display: block;
   content: '';
-  width: 26px;
-  height: 26px;
+  width: 30px;
+  height: 30px;
   position: absolute;
-  top: 11px;
+  top: 7px;
   left: 17px;
-  background-image: url(../assets/works/psCon.png);
+  background-image: url(../assets/works/js_icon.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% auto;
